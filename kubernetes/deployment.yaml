@@ -37,7 +37,7 @@ spec:
 
         ports:
 
-        - containerPort: 5000
+        - containerPort: 5001
 
         readinessProbe:
 
@@ -45,7 +45,7 @@ spec:
 
             path: /health
 
-            port: 5000
+            port: 5001
 
           initialDelaySeconds: 5
 
@@ -55,6 +55,6 @@ spec:
 
             path: /health
 
-            port: 5000
+            port: 5001
 
           initialDelaySeconds: 10
