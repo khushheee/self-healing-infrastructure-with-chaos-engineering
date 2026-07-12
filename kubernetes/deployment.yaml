@@ -15,7 +15,7 @@ spec:
 
     matchLabels:
 
-      app: flask
+      app: flask-app
 
   template:
 
