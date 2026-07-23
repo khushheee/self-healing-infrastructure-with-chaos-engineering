@@ -14,11 +14,11 @@ spec:
 
   source:
 
-    repoURL: https://github.com/YOUR_USERNAME/self-healing-infrastructure.git
+    repoURL: https://github.com/khushheee/self-healing-infrastructure.git
 
     targetRevision: HEAD
 
-    path: kubernetes
+    path: kubernetes/base
 
   destination:
 
