@@ -1,9 +1,9 @@
 # Self-Healing Infrastructure Project 
 
-## Overview
+##  Overview
 A cutting-edge Kubernetes application showcasing self-healing capabilities with GitOps, observability, and chaos engineering. Built for production resilience and developer efficiency.
 
-## 📂 Project Structure
+##  Project Structure
 ```bash
 self-healing-infrastructure/
 ├── app/          # Flask app source code
@@ -79,6 +79,6 @@ Application deployed via ArgoCD, continuously syncing from GitHub repo (`kuberne
 - Clean, modular project structure
 - IaC and CI/CD pipelines coming soon
 
-# 📈 Next Steps
+#  Next Steps
 - AWS EKS Deployment
 - Observability with Prometheus/Grafana
